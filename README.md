@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angelo Perez</h1>
 <h3 align="center">A passionate and dedicated software developer</h3>
-<img align="right" src="https://media.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" width="400" alt="coding">
+<img align="right" src="https://media.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" width="320" alt="coding">
 
 - 🔭 I’m currently working on [PasaPhone](https://github.com/angelo-perez/PasaPhone_MVC)
 
