@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **angelot.prz@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/17179waKnHWeWnJ62TGoMma8pDWyBhuBi/view?usp=drive_link" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1NiEVtUPlqAsx2mKowkozvO9KNtwmBWwP?usp=drive_link" target="_blank">/Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
