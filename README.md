@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and dedicated web developer</h3>
 <img align="right" src="https://media.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" width="320" alt="coding">
 
-- 🌱 I’m currently utilizing **ASP.NET Core MVC** for web projects, and have a background on **Flutter** for mobile app development
+- 🌱 I’m currently utilizing **ASP.NET Core MVC** for web projects
 
 - 📫 How to reach me **angelot.prz@gmail.com**
 
